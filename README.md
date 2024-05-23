@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution page on Frontend Mentor](https://www.frontendmentor.io/solutions/solution-using-tailwind-css-qEXBWAKaGJ)
-- Live Site URL: [GitHub Pages](https://danayatsuta.github.io/frontend-mentor-product-preview-card-component/)
+- Live Site URL: [GitHub Pages](https://danayatsuta.github.io/fm-product-preview-card-component/)
 
 ## My process
 
